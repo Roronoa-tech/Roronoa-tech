@@ -24,7 +24,7 @@ Web development, UI/UX design, GitHub, or getting started with coding projects.
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roronoa-tech&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🌍 Socials
