@@ -4,6 +4,7 @@
 
 Hi, I'm Aditya — a developer exploring web technologies and UI/UX design,  
 focused on building clean and meaningful digital experiences.
+</div>
 
 🔭 **Currently working on**  
 Personal web projects, UI/UX designs, and improving my frontend & backend skills.
@@ -19,14 +20,15 @@ JavaScript, frontend frameworks, backend basics, and version control with Git & 
 
 💬 **Ask me about**  
 Web development, UI/UX design, GitHub, or getting started with coding projects.
-</div>
 
+<div align="center" style="width: 100%;">
 ## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,figma,github&theme=dark" />
 </p>
 
+## theme=tokyonight:
 
 ## 🌍 Socials
 
@@ -37,16 +39,13 @@ Web development, UI/UX design, GitHub, or getting started with coding projects.
   <a href="mailto:adityaksavita@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
+## 🔥 My Stats
 
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Roronoa-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Roronoa-tech&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Roronoa-tech&theme=dark&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ## 📈 Activity Graph
@@ -61,4 +60,4 @@ Web development, UI/UX design, GitHub, or getting started with coding projects.
 ---
 [![](https://visitcount.itsvg.in/api?id=Roronoa-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
