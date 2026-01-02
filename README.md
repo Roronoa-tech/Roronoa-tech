@@ -21,14 +21,34 @@ JavaScript, frontend frameworks, backend basics, and version control with Git & 
 Web development, UI/UX design, GitHub, or getting started with coding projects.
 </div>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qwertyuiop) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.uzumaki_.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya-Savita) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mugiwara_xo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaksavita@gmail.com) 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🌍 Socials
+
+<p align="left">
+  <a href="https://discord.com/users/1102460173743816735"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://instagram.com/_.uzumaki_.07"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://linkedin.com/in/Aditya-savita"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:adityaksavita@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
 
 ## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,figma,github&theme=dark" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roronoa-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
