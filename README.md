@@ -1,8 +1,26 @@
-<div align="center">
-# 💫 About Me:
-  
-Hi, I’m Aditya — a developer exploring web technologies and UI/UX design,<br>focused on building clean and meaningful digital experiences.<br><br>I’m currently working on<br>Personal web projects, UI/UX designs, and improving my<br> frontend & backend skills.<br><br>I’m looking to collaborate on<br>Beginner-friendly open-source projects, web applications,<br>and creative UI/UX ideas.<br><br>I’m looking for help with<br>Backend development concepts and building scalable<br>full-stack applications.<br><br>I’m currently learning<br>JavaScript, frontend frameworks, backend basics, and version <br>control with Git & GitHub.<br><br>Ask me about<br>Web development, UI/UX design, GitHub, or getting started with<br>coding projects.
+<div align="center" style="width: 100%;">
 
+## 🌙 About Me
+
+Hi, I'm Aditya — a developer exploring web technologies and UI/UX design,  
+focused on building clean and meaningful digital experiences.
+
+🔭 **Currently working on**  
+Personal web projects, UI/UX designs, and improving my frontend & backend skills.
+
+👯 **Looking to collaborate on**  
+Beginner-friendly open-source projects, web applications, and creative UI/UX ideas.
+
+🤝 **Looking for help with**  
+Backend development concepts and building scalable full-stack applications.
+
+🌱 **Currently learning**  
+JavaScript, frontend frameworks, backend basics, and version control with Git & GitHub.
+
+💬 **Ask me about**  
+Web development, UI/UX design, GitHub, or getting started with coding projects.
+
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qwertyuiop) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.uzumaki_.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya-Savita) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mugiwara_xo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaksavita@gmail.com) 
