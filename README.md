@@ -28,8 +28,6 @@ Web development, UI/UX design, GitHub, or getting started with coding projects.
   <img src="https://skillicons.dev/icons?i=html,css,js,c,figma,github&theme=dark" />
 </p>
 
-## theme=tokyonight:
-
 ## 🌍 Socials
 
 <p align="left">
@@ -46,11 +44,6 @@ Web development, UI/UX design, GitHub, or getting started with coding projects.
     src="https://streak-stats.demolab.com?user=Roronoa-tech&theme=dark&hide_border=true"
     alt="GitHub Streak Stats"
   />
-</p>
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Roronoa-tech&theme=tokyonight&hide_border=true" />
 </p>
 
 
