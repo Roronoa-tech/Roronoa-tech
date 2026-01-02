@@ -21,11 +21,12 @@ JavaScript, frontend frameworks, backend basics, and version control with Git & 
 Web development, UI/UX design, GitHub, or getting started with coding projects.
 </div>
 
-## 📈 Activity Graph
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roronoa-tech&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,figma,github&theme=dark" />
 </p>
+
 
 ## 🌍 Socials
 
@@ -37,11 +38,6 @@ Web development, UI/UX design, GitHub, or getting started with coding projects.
 </p>
 
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,figma,github&theme=dark" />
-</p>
 
 ## 📊 GitHub Stats
 
