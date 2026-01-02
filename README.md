@@ -40,7 +40,11 @@ Web development, UI/UX design, GitHub, or getting started with coding projects.
 
 ## 🔥 My Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Roronoa-tech&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Roronoa-tech)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Roronoa-tech&theme=dark" />
+</p>
+
 
 
 
