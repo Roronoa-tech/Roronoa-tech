@@ -1,5 +1,5 @@
-# Hi, I’m Aditya:
- — A developer exploring web technologies and UI/UX design,<br>focused on building clean and meaningful digital experiences.<br><br>I’m currently working on<br>Personal web projects, UI/UX designs, and improving my<br> frontend & backend skills.<br><br>I’m looking to collaborate on<br>Beginner-friendly open-source projects, web applications,<br>and creative UI/UX ideas.<br><br>I’m looking for help with<br>Backend development concepts and building scalable<br>full-stack applications.<br><br>I’m currently learning<br>JavaScript, frontend frameworks, backend basics, and version <br>control with Git & GitHub.<br><br>Ask me about<br>Web development, UI/UX design, GitHub, or getting started with<br>coding projects.
+# 💫 About Me:
+Hi, I’m Aditya — a developer exploring web technologies and UI/UX design,<br>focused on building clean and meaningful digital experiences.<br><br>I’m currently working on<br>Personal web projects, UI/UX designs, and improving my<br> frontend & backend skills.<br><br>I’m looking to collaborate on<br>Beginner-friendly open-source projects, web applications,<br>and creative UI/UX ideas.<br><br>I’m looking for help with<br>Backend development concepts and building scalable<br>full-stack applications.<br><br>I’m currently learning<br>JavaScript, frontend frameworks, backend basics, and version <br>control with Git & GitHub.<br><br>Ask me about<br>Web development, UI/UX design, GitHub, or getting started with<br>coding projects.
 
 
 ## 🌐 Socials:
