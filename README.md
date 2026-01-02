@@ -22,6 +22,7 @@ JavaScript, frontend frameworks, backend basics, and version control with Git & 
 Web development, UI/UX design, GitHub, or getting started with coding projects.
 
 <div align="center" style="width: 100%;">
+  
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -39,12 +40,8 @@ Web development, UI/UX design, GitHub, or getting started with coding projects.
 
 ## 🔥 My Stats
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Roronoa-tech&theme=dark&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Roronoa-tech&theme=dark)
+
 
 
 ## 🏆 GitHub Trophies
