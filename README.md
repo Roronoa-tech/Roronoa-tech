@@ -38,8 +38,10 @@ Web development, UI/UX design, GitHub, or getting started with coding projects.
   <a href="mailto:adityaksavita@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roronoa-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Roronoa-tech&icon=0&color=0)](https://visitcount.itsvg.in)
